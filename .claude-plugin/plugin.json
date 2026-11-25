@@ -1,0 +1,5 @@
+{
+  "name": "token-saver",
+  "version": "1.0.0",
+  "description": "Warns when session context gets large and asks whether to optimise; adds lean-output rules."
+}

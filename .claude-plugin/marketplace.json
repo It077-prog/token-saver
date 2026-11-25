@@ -1,0 +1,7 @@
+{
+  "name": "token-saver-market",
+  "owner": { "name": "token-saver" },
+  "plugins": [
+    { "name": "token-saver", "source": "./", "description": "Context-size warning + lean-output rules" }
+  ]
+}
